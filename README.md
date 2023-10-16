@@ -6,7 +6,7 @@
 <p align=center>Talk to me about
 
 <p align=center>
-♾️ DevOps | 🔍 Observability | 🚀 Platform Engineering | 🔥 Site Reliability Engineering | ☁️ Cloud / AWS | 🐍 Python | 🛡️ Security | 😻 Open Source
+♾️&nbsp;DevOps | 🔍&nbsp;Observability | 🚀&nbsp;Platform&nbsp;Engineering | 🔥&nbsp;Site&nbsp;Reliability&nbsp;Engineering | ☁️&nbsp;Cloud&nbsp;/&nbsp;AWS | 🐍&nbsp;Python | 🛡️&nbsp;Security | 😻&nbsp;Open&nbsp;Source
 </p>
 
 [![An image of @iokiwi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iokiwi)](https://holopin.io/@iokiwi)
