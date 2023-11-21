@@ -1,5 +1,5 @@
 <h3 align=center>Kia Ora! My Name is Simon 👋</h2>
-<p align="center">I am a software engineer currently based in Ōtautahi, Aotearoa New Zealand. My passion is empowering teams through lean software delivery pracitices and cutting modern cloud technologies</p>
+<p align="center">I am a software engineer currently based in Ōtautahi, Aotearoa New Zealand. My passion is empowering teams through lean software delivery principles and cloud native technologies</p>
 
 <hr>
 
